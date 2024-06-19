@@ -1,1 +1,1 @@
-zabbix-agent:alpine-7.0.1
+zabbix/zabbix-agent:alpine-7.0.1
