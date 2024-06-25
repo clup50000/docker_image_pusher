@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:alpine-7.0.1
+gcr.io/cadvisor/cadvisor:v0.49.1
