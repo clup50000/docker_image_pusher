@@ -1,2 +1,2 @@
-reids::5.0.14
+docker.io/redis:6.0.5
 
