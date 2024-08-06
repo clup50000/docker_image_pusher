@@ -1,2 +1,2 @@
-docker.io/redis:6.0.5
+nacos/nacos-server:v2.3.0
 
